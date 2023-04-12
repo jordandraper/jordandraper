@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordan Draper</h1>
-<h3 align="center">A passionate mathematician turned data engineer/scientest/dev.</h3>
+<h3 align="center">A passionate mathematician turned data engineer/scientist/dev.</h3>
 
 - 🔭 I’m currently working on [opencv-vid-sync](https://github.com/jordandraper/opencv-vid-sync)
 
