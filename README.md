@@ -17,6 +17,8 @@
 - [Welcome to the bLog](https://jordandraper.github.io/posts/welcome-to-the-blog/)
 <!-- BLOG-POST-LIST:END -->
 
+[![Latest blog post workflow](https://github.com/jordandraper/jordandraper/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/jordandraper/jordandraper/actions/workflows/blog-post-workflow.yml)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="/https://jordandraper.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://jordandraper.github.io/feed.xml" height="30" width="40" /></a>
