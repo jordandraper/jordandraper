@@ -13,6 +13,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Blog Setup Guide In Under 15 Minutes!](https://jordandraper.github.io/posts/blog-setup-guide/)
+- [Welcome to the bLog](https://jordandraper.github.io/posts/welcome-to-the-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
