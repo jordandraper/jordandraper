@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Add your own blog flair!](https://jordandraper.github.io/posts/add-your-own-flair/)
 - [Blog Setup Guide In Under 15 Minutes!](https://jordandraper.github.io/posts/blog-setup-guide/)
 - [Welcome to the bLog](https://jordandraper.github.io/posts/welcome-to-the-blog/)
 <!-- BLOG-POST-LIST:END -->
