@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Generating Realistic Images with Stable Diffusion and my RTX 3080](https://jordandraper.github.io/posts/generating-realistic-images-with-stable-diffusion/)
 - [Add your own blog flair!](https://jordandraper.github.io/posts/add-your-own-flair/)
 - [Blog Setup Guide In Under 15 Minutes!](https://jordandraper.github.io/posts/blog-setup-guide/)
 - [Welcome to the bLog](https://jordandraper.github.io/posts/welcome-to-the-blog/)
