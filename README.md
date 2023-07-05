@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Jordan Draper</h1>
-<h3 align="center">A passionate mathematician turned data engineer/scientist/dev.</h3>
+<h3 align="center">Mathematician Turned Software Engineer, Driven by Problem-Solving</h3>
 
-- 🔭 I’m currently working on [opencv-vid-sync](https://github.com/jordandraper/opencv-vid-sync)
+- 🔭 Currently working on [opencv-vid-sync](https://github.com/jordandraper/opencv-vid-sync) — an innovative solution for video synchronization.
+  
+- 👨‍💻 View my projects [here](https://github.com/jordandraper).
 
-- 👨‍💻 All of my projects are available at [https://github.com/jordandraper](https://github.com/jordandraper)
+- 📝 I share my insights and tech adventures on my [blog](https://jordandraper.github.io/).
+  
+- 📫 Open to collaboration on exciting projects: **jordan.draper@proton.me**.
+  
+- ⚡ Fun Fact: **I'm a fan of Cherry MX Brown Switches for mechanical keyboards.**
 
-- 📝 I regularly write articles on [https://jordandraper.github.io/](https://jordandraper.github.io/)
-
-- 📫 How to reach me: **jordan.draper@protonmail.com**
-
-- ⚡ Controversial opinion: **I like Cherry MX Brown Switches.**
-
-### Blogs posts
+### Blog posts
+I love sharing my insights and adventures in tech on my blog. Here are some of my latest posts:
 <!-- BLOG-POST-LIST:START -->
 - [Supercharge Your Job Application Process&amp;#58; An Insider&#39;s Guide](https://jordandraper.github.io/posts/supercharge-your-job-application-process/)
 - [Generating Images of Yourself with Stable Diffusion](https://jordandraper.github.io/posts/generating-images-of-yourself-with-stable-diffusion/)
