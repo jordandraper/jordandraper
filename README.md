@@ -14,7 +14,7 @@
 ### Blog posts
 I love sharing my insights and adventures in tech on my blog. Here are some of my latest posts:
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your Job Application Process; An Insider's Guide](https://jordandraper.github.io/posts/supercharge-your-job-application-process/)
+- [Supercharge Your Job Application Process&amp;#58; An Insider&#39;s Guide](https://jordandraper.github.io/posts/supercharge-your-job-application-process/)
 - [Generating Images of Yourself with Stable Diffusion](https://jordandraper.github.io/posts/generating-images-of-yourself-with-stable-diffusion/)
 - [Add your own blog flair!](https://jordandraper.github.io/posts/add-your-own-flair/)
 - [Blog Setup Guide In Under 15 Minutes!](https://jordandraper.github.io/posts/blog-setup-guide/)
